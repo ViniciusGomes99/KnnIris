@@ -32,11 +32,6 @@ A step by step series of examples that tell you how to get a development environ
 ## Usage
 This project can be used as a reference for machine learning beginners who want to understand the implementation of K-Nearest Neighbors in Python. The code is well-commented and includes detailed explanations at each step, from data loading to model evaluation.
 
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Contact Information
 For any queries or feedback, please contact me throught my [Linkedin](https://www.linkedin.com/in/vinicius-capozzi)!!!
