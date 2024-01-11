@@ -34,4 +34,4 @@ This project can be used as a reference for machine learning beginners who want 
 
 
 ## Contact Information
-For any queries or feedback, please contact me throught my [Linkedin](https://www.linkedin.com/in/vinicius-capozzi)!!!
+For any queries or feedback, please contact me through my [Linkedin](https://www.linkedin.com/in/vinicius-capozzi)!!!
